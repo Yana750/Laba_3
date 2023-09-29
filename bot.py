@@ -1,6 +1,5 @@
-import aiogram
 from aiogram import Bot, Dispatcher, types
-from aiogram import executor
+from aiogram.utils import executor
 
 from config import TOKEN
 
